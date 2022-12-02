@@ -12,3 +12,6 @@ A collection of MUD learning recourses.
 
 ## Misc
 [Game programing patterns](https://gameprogrammingpatterns.com/)
+
+## Games
+[opcraft](https://opcraft.mud.dev/)
