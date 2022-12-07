@@ -15,5 +15,6 @@ MUD Basics workshop from DEVCON Bogota ([Video](https://drive.google.com/file/d/
 ## Games
 [opcraft](https://opcraft.mud.dev/)
 
-## OP Craft
+## OP Stack
+[Introducing the OP Stack](https://optimism.mirror.xyz/fLk5UGjZDiXFuvQh6R_HscMQuuY9ABYNF7PI76-qJYs)
 [OP Stack Hub](https://oplabs.notion.site/External-OP-Stack-Hub-970a0720eade4feb8e9743d6e65d5e60)
