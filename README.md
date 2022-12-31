@@ -1,6 +1,6 @@
 # MUDpedia
-A collection of MUD learning recourses. 
-You are welcomed open a PR with some suggestions!
+A collection of MUD learning recourses. \
+You are welcomed to open a PR with some suggestions!
 
 
 ## Workshops
